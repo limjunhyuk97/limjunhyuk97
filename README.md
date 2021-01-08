@@ -1,6 +1,7 @@
 ### Jun's Github 👋
 
-##### 🌱 I’m currently learning on C++, DataStructure, OOPPrograming
+##### :zap: I’m currently learning on C++, DataStructure, OOP
+##### 🌱 I'm interested in Mobility Platform Service.
 
 <!--
 **limjunhyuk97/limjunhyuk97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
