@@ -1,6 +1,6 @@
 ### Jun's Github 👋
 
-##### :zap: I’m currently learning on C++, DataStructure, OOP
+##### :zap: I’m currently learning C++, DataStructure, OOP
 ##### 🌱 I'm interested in Mobility Platform Service.
 
 <!--
