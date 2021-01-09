@@ -1,7 +1,6 @@
 ### Jun's Github 👋
 
 ##### :zap: I’m currently learning C++, DataStructure, OOP
-##### 🌱 Now I'm interested in embedded system
 
 <!--
 **limjunhyuk97/limjunhyuk97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
