@@ -1,9 +1,9 @@
-# Jun's Github 👋
+## Jun's Github 👋
 
-### :zap: I’m currently learning C++, JAVA, C, Python Language
-### :zap: Also learning DataStructure, OOP, Algorithm
-### 🔭 I’m currently working on small trivial projects
-### 😄 And I'm interested in mobility platform!
+#### :zap: I’m currently learning C++, JAVA, C, Python Language
+#### :zap: Also learning DataStructure, OOP, Algorithm
+#### 🔭 I’m currently working on small trivial projects
+#### 😄 And I'm interested in mobility platform!
 
 <!--
 **limjunhyuk97/limjunhyuk97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
