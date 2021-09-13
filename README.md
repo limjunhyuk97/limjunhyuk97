@@ -18,10 +18,6 @@
 
 ### Other Stacks 🖌
 
-### Github stacks
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limjunhyuk97&show_icons=true&theme=radical)
-
 ### MY BOJ
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wnsgurl97)](https://solved.ac/profile/wnsgurl97)
