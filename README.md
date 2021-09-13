@@ -9,7 +9,7 @@
 
 ### Tools 🛠
 
-### Languages
+#### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limjunhyuk97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,7 +18,7 @@
 
 ### Other Stacks 🖌
 
-### MY BOJ
+#### MY BOJ
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wnsgurl97)](https://solved.ac/profile/wnsgurl97)
 
