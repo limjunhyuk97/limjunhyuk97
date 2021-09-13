@@ -1,20 +1,30 @@
-## Jun's Github 👋
+## Hi! I'm Jun Hyuk Lim 👋
 
-#### :zap: I’m currently learning C++, JAVA, C, Python Language
-#### :zap: Also learning DataStructure, OOP, Algorithm
-#### 🔭 I’m currently working on small trivial projects
+### About ME!
+#### 🌱 Steady learner who believes software can makes the world better place.
+#### 👍 I'm interested in Block-chain based decentralized platforms.
+#### 🔥 Currently focusing on learning Data Structures, Algorithms, and mostly devoting on school class.
 
-<!--
-**limjunhyuk97/limjunhyuk97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Tools 🛠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limjunhyuk97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+### Other Stacks 🖌
+
+### Github stacks
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limjunhyuk97&show_icons=true&theme=radical)
+
+### MY BOJ
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wnsgurl97)](https://solved.ac/profile/wnsgurl97)
+
+
+
