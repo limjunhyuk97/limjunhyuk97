@@ -9,7 +9,7 @@
 
 ### Tools 🛠
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-orange.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img alt="C" src ="https://img.shields.io/badge/C-yellow.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="Git" src ="https://img.shields.io/badge/Git-yellow.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Github" src ="https://img.shields.io/badge/Github-limeyellow.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Vim" src ="https://img.shields.io/badge/Vim-#019733.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-orange.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img alt="C" src ="https://img.shields.io/badge/C-yellow.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="Git" src ="https://img.shields.io/badge/Git-yellow.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Github" src ="https://img.shields.io/badge/Github-limeyellow.svg?style=for-the-badge&logo=github&logoColor=white"/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limjunhyuk97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
