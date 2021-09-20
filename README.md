@@ -16,7 +16,7 @@
 
 ---
 
-### Other Stacks 🖌
+### Other Footsteps 🖌
 
 #### MY BOJ
 
