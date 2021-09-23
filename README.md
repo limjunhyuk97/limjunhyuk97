@@ -1,7 +1,7 @@
 ## Hi! I'm Jun Hyuk Lim 👋
 
 ### About ME!
-#### 🌱 Steady learner who believes software can makes the world better place.
+#### 🌱 Steady learner who believes software can make the world better place.
 #### 👍 I'm interested in Block-chain based decentralized platforms.
 #### 🔥 Currently focusing on learning Data Structures, Algorithms, and mostly devoting to university classes.
 
