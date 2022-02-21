@@ -2,7 +2,6 @@
 
 ### About ME!
 #### 🌱 Steady learner who believes software can make the world better place.
-#### 👍 I'm interested in Block-chain based decentralized platforms.
 #### 🔥 Currently focusing on learning Data Structures, Algorithms, Web Service and, Network.
 
 ---
