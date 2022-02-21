@@ -1,24 +1,24 @@
-## Hi! I'm Jun Hyuk Lim 👋
+<div align="center">
 
-### About ME!
+# Hey there! 👋
+
+### Who am I?
+#### ⭐️ Dreamer connecting dots
 #### 🌱 Steady learner who believes software can make the world better place.
 #### 🔥 Currently focusing on learning Data Structures, Algorithms, Web Service and, Network.
 
----
 
-### Tools 🛠
+### Langs & Skills
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-orange.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img alt="C" src ="https://img.shields.io/badge/C-yellow.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="Git" src ="https://img.shields.io/badge/Git-yellow.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Github" src ="https://img.shields.io/badge/Github-limeyellow.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/mysql-5C7AEA.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="HTML" src ="https://img.shields.io/badge/html-FF7600.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/css-3DB2FF.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/javascript-FFE459.svg?style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="Bash" src ="https://img.shields.io/badge/gnubash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white"/> <img alt="VIM" src ="https://img.shields.io/badge/vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limjunhyuk97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-
-### My Footsteps 🖌
-
-#### MY BOJ
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wnsgurl97)](https://solved.ac/profile/wnsgurl97)
+### Tools
+  
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+### Other Status
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=limjunhyuk97)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
