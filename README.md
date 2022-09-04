@@ -5,7 +5,7 @@
 ### Who am I?
 #### ⭐️ Wanna be a fullstack developer
 #### 🌱 Steady learner who believes software can make the world better place.
-#### 🔥 Currently focusing on learning Data Structures, Algorithms, Web Service and, Network.
+#### 🔥 Currently focusing on developing my FE skills.
 
 
 ### Langs & Skills
