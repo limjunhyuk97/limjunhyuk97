@@ -21,10 +21,3 @@
 ### Tools
   
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-### Other Status
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=limjunhyuk97)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
