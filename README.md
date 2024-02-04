@@ -9,7 +9,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgurl97)](https://solved.ac/wnsgurl97/)
 
 
-## Educations
+## Education
 - **Ajou University** (Mar.2018 - Feb.2024)
   <br/>Bachelor of Software Engineering (GPA 4.03 / 4.5)
 
